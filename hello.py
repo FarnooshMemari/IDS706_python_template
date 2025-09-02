@@ -1,5 +1,6 @@
 # This module includes a greeting function and a basic addition function.
 
+
 def say_hello(name: str) -> str:
     """Return a greeting message to students in the IDS class."""
     # Format and return a personalized greeting message for the given name.
